@@ -34,11 +34,3 @@ This project dynamically applies styles based on class names — just like Tailw
 - `tush-center` → center content (horizontal + vertical)
 
 ---
-
-## 🧠 How It Works
-
-This script:
-
-1. Selects all elements using:
-   ```js
-   document.querySelectorAll("*")
